@@ -17,8 +17,6 @@ right click with the chisel on a magic block and it converts it into a valuable 
 ![.](https://cdn.modrinth.com/data/cached_images/d3349a4825cba8e59567d7ab5c7406756789fd96.png)
 ![.](https://cdn.modrinth.com/data/cached_images/bcffad4b8e79974eda16702a89259d84c202e8ea.png)
 
-<img width="731" height="391" alt="image" src="https://github.com/user-attachments/assets/a4f210c9-708c-49b3-8b14-021291a1c625" />
-
 Some Notes and Details
 - Raw magic and magic ore can only be blasted
 - Magic ore blasting time is longer than raw magic
