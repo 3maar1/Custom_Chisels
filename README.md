@@ -5,7 +5,7 @@ a mod where you can make a chisel from different ores that converts a special bl
 Magic is a new ore added to the game, you mine it, put it in the blast furnace to give you magic! that helps you with creating the chisels and also to make the blocks to use the chisels on
 
 ## How it works
-right click with the chisel on the magic block and it converts it into a valuable ore!
+right click with the chisel on a magic block and it converts it into a valuable ore!
 
 # Recipes
 ![.](https://cdn.modrinth.com/data/cached_images/db70438a55cba7e71a2f0ea4011383f55c4bdca5.png)
